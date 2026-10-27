@@ -104,3 +104,4 @@ Type `set bot_cmd <command>` in the Plutonium console.
 
 - **RlKk01**: original GerardS0406 BySc techboy04gaming, *ZM Bots* mod for BO2 Zombies (Plutonium)
 - **supergamer9787**: *Zombie Bots* v3.0: Grief fixes and team balancing, co-op fixes, player-rules balance, freeze fix, weapon and box improvements, commands, HUD and callouts
+- **Claude**: Bug fixes, Commits, Re-Writing
