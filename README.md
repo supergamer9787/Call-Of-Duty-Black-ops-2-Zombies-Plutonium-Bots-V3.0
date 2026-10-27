@@ -58,6 +58,7 @@ The current mode is always shown in the top-left corner.
 - **Team balancing in Grief:** bots join the smaller team, humans included (1 human + 7 bots = 4 vs 4), and rebalance if someone switches.
 - **Teams in Grief:** bots revive and protect only their own team.
 - **Griefing bots:** they're balanced so you can grief them like a player, for example by training a horde into them.
+- NOTE: For Grief use command `xpartygo` in the grief lobby to start a game with 1 human player!
 
 ### Freeze protection
 Bots never stand around doing nothing. Treyarch's own engine failsafe and a stuck check get any stuck bot moving again, without teleporting it.
