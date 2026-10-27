@@ -1,5 +1,5 @@
 # Call-Of-Duty-Black-ops-2-Zombies-Plutonium-Bots-V3.0
-riendly AI teammates for Black Ops 2 Zombies on Plutonium (zmbots.iwd). The bots fill empty player slots and play Survival, co-op and Grief: they move around the map, fight, shop, open the map, revive and follow orders.
+Friendly AI teammates for Black Ops 2 Zombies on Plutonium (zmbots.iwd). The bots fill empty player slots and play Survival, co-op and Grief: they move around the map, fight, shop, open the map, revive and follow orders.
 # Zombie Bots for Black Ops 2 Zombies (Plutonium T6)
 
 Friendly AI teammates for Black Ops 2 Zombies on [Plutonium](https://plutonium.pw/). Bots fill the empty player slots and play **Survival, co-op and Grief**. They move around the map, fight, buy weapons and perks, open doors, revive teammates and follow your commands, all under the same rules as a human player.
