@@ -23,7 +23,7 @@ Friendly AI teammates for Black Ops 2 Zombies on [Plutonium](https://plutonium.p
 
 **Number of bots:** you get up to 7 bots, limited by the lobby size. To play with more bots, raise the **party size** in the custom game lobby (8 players maximum, humans included). You can also set `zm_bots` in the console.
 
-**Grief:** also install a Grief fix script that splits players into two teams, for example *Grief Custom Games*. The bots join the smaller team automatically.
+**Grief:** also install a Grief fix script that splits players into two teams, for example *Grief Custom Games*. "https://forum.plutonium.pw/topic/36136/grief-custom-games-unified-fixes" The bots join the smaller team automatically.
 
 **Using it with another mod:** drag `zmbots.iwd` into that mod's folder.
 
